@@ -4,7 +4,7 @@ export default function FeaturesSection() {
   return (
     <section className="bg-white py-[140px] px-12">
       <div className="">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 justify-items-center">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-2 justify-items-center">
           <div className="relative group overflow-hidden w-[430px] h-[537px]">
             <div className="w-full h-full relative">
               <Image
