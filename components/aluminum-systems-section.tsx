@@ -38,7 +38,7 @@ export default function AluminumSystemsSection() {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
           {systems.map((system, index) => (
             <div key={index} className="group cursor-pointer">
               <div className=" aspect-[4/3] mb-4">
